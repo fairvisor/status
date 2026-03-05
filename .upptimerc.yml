@@ -23,11 +23,9 @@ status-website:
     - rel: stylesheet
       href: https://cdn.jsdelivr.net/gh/fairvisor/status@master/static/fairvisor-theme.css
   navbar:
-    - title: Status
-      href: /
-    - title: fairvisor.com
+    - title: Fairvisor
       href: https://www.fairvisor.com
-    - title: Docs
+    - title: Fairvisor Docs
       href: https://docs.fairvisor.com
 
 # Upptime also supports notifications, assigning issues, and more
