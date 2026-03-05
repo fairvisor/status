@@ -21,7 +21,7 @@ status-website:
   theme: dark
   links:
     - rel: stylesheet
-      href: https://raw.githubusercontent.com/fairvisor/status/master/static/fairvisor-theme.css
+      href: https://cdn.jsdelivr.net/gh/fairvisor/status@master/static/fairvisor-theme.css
   navbar:
     - title: Status
       href: /
