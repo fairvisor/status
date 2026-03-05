@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Fairvisor main site",
+    "url": "https://www.fairvisor.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.fairvisor.com.ico",
+    "slug": "fairvisor-main-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 577,
+    "timeDay": 577,
+    "timeWeek": 577,
+    "timeMonth": 577,
+    "timeYear": 577,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Fairvisor documentation",
+    "url": "https://docs.fairvisor.com",
+    "icon": "https://icons.duckduckgo.com/ip3/docs.fairvisor.com.ico",
+    "slug": "fairvisor-documentation",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 422,
+    "timeDay": 422,
+    "timeWeek": 422,
+    "timeMonth": 422,
+    "timeYear": 422,
+    "dailyMinutesDown": {}
+  }
+]
