@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --body-background-color: #05070d;
+  --body-text-color: #f4f4f5;
+  --card-background-color: #0e0f16;
+  --nav-background-color: #0c0d13;
+  --nav-border-bottom-color: rgba(255, 255, 255, 0.10);
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+a {
+  color: #f08a32;
+}
+
+a:hover {
+  color: #f4a55a;
+}
+
+/* Navbar */
+nav {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+}
+
+/* Cards / panels */
+.status-page .wrap > * {
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  border-radius: 12px;
+}
+
+/* Uptime graph bars - accent color for "up" state */
+.uptime-bar-good,
+[class*="uptime"][class*="good"] {
+  background-color: #f08a32 !important;
+  opacity: 0.85;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: 700;
+  color: #f4f4f5;
+}
+
+/* Muted / secondary text */
+.description,
+time,
+small {
+  color: #9d9da8;
+}

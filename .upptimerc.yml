@@ -13,15 +13,22 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fairvisor.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Fairvisor Status page
+  logoUrl: https://raw.githubusercontent.com/fairvisor/status/master/static/logo.svg
+  favicon: https://raw.githubusercontent.com/fairvisor/status/master/static/logo.svg
+  name: Fairvisor Status
   introTitle: "Fairvisor Status"
-  introMessage: "Here you can find the current status of our services. We monitor the uptime and performance of our main site and documentation to ensure they are always available for you."
+  introMessage: "Current status of Fairvisor services. We monitor uptime and performance in real time."
+  theme: dark
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/fairvisor/status/master/static/fairvisor-theme.css
   navbar:
     - title: Status
       href: /
-    - title: Fairvisor
+    - title: fairvisor.com
       href: https://www.fairvisor.com
+    - title: Docs
+      href: https://docs.fairvisor.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
