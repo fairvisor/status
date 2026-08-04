@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fairvisor.com.ico",
     "slug": "fairvisor-main-site",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 242,
-    "timeDay": 258,
-    "timeWeek": 185,
-    "timeMonth": 173,
+    "timeDay": 260,
+    "timeWeek": 193,
+    "timeMonth": 175,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2026-04-21": 335
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 167,
-    "timeWeek": 180,
-    "timeMonth": 183,
+    "timeDay": 143,
+    "timeWeek": 168,
+    "timeMonth": 180,
     "timeYear": 177,
     "dailyMinutesDown": {}
   }
